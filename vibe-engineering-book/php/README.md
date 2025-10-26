@@ -24,5 +24,4 @@ The validator implements the official ISBN-13 checksum algorithm:
 
 - `ISBN13Validator.php` - The validator class
 - `test_runner.php` - Simple test runner (no external dependencies)
-- `ISBN13ValidatorTest.php` - PHPUnit tests (optional, requires PHPUnit)
 
