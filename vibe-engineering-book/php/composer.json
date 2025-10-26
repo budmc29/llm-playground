@@ -1,13 +1,6 @@
 {
-    "name": "isbn13-validator",
-    "description": "ISBN-13 validator implementation",
     "require-dev": {
         "phpunit/phpunit": "^10.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "": ""
-        }
     }
 }
 
